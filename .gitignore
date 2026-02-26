@@ -1,0 +1,6 @@
+# Proyectos excluidos
+c-xampp-htdocs-saludguadalajara-com/
+
+# Archivos temporales
+*.log
+.write-test
